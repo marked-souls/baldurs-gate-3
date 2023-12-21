@@ -36,18 +36,24 @@ Origin choices: This build greatly benefits "Death Stalker Mantle"(Durge origin)
 - Bloodthirst also works.
 
 **Armor**: 
+
 - Early game - Medium Adamantine
 - Late game - Armour of Agility
-**Headpiece**: 
+**Headpiece**:
+  
 - Early Game - Shadow of Menzobarranzan
 - Late Game - Birthright
-**Gloves**: 
+**Gloves**:
+  
 - Gloves of the Duelist OR any Damage bonus gloves(element or otherwise)
-**Boots**: 
+**Boots**:
+  
 - Disintingrating Night Walkers OR Genial Strides
-**Amulet**: 
+**Amulet**:
+  
 - Surgeon's Subjagation Amulet OR Spectators Eyes, OR Spellcrux
 **Rings**:
+  
 - Killer's Sweetheart & Shifting Corpus OR Any damage bonus rings
 
 Additional information on this homebrew build:

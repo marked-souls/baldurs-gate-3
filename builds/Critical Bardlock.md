@@ -102,7 +102,7 @@ Depending on your origin:
 
   - *Durge*: Spare Alfira by knocking her out for potent robe when your non-choice comes in the form of the little devilish goblin.
 
-  - *Universal*: Convince Ethel to give her hair and spare Mayrina for the bonus CHA, Necromancy of Thay is up to you, Spare Us, Swap your class to Wizard upon grabbing Shovel and have her by your side for good for the fistings, withstand the laughing monks checks for bonus Tasha laughings.
+  - *Universal*: Convince Ethel to give her hair and spare Mayrina for the bonus CHA, Necromancy of Thay is up to you, Spare Us, Swap your class to Wizard upon grabbing Shovel and have her by your side for good for the fistings, withstand the laughing monks checks for bonus Tasha laughings, pass the checks of the Creche device that attempts(kills) you and your tadpole for bonus actions for Illithid goodness.
 
 Additional information on this homebrew build:
 

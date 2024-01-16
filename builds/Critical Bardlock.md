@@ -77,7 +77,9 @@ Origin choices: This build greatly benefits "Death Stalker Mantle"(Durge origin)
 - Ring of Mental Inhibition
 
 **Tadpole Zone**
+
 Important note: Any tadpole you do take can count against your wisdom check in act three, so if your going pure no illithid run, then you skip this section.
+
 - Favourable beginnings -> Luck of Far Realms
 - Transfuse Health ->  Shield of Thralls
 - Concentrated Blast -> Cull the weak -> Psionic Backlash
@@ -85,6 +87,7 @@ Important note: Any tadpole you do take can count against your wisdom check in a
 
 *Partial Illithid zone*
 You will have to commune or eat Emperors Tadpole in act 3 for this. You will get 4 free tadpoles upon doing so.
+
   - Displace (Unlock automatically & Synergizes with repelling blast)
   - Illithid Expertise
   - Psionic Dominance

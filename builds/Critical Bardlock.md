@@ -95,8 +95,9 @@ You will have to commune or eat Emperors Tadpole in act 3 for this. You will get
 
 Story decisions:
 Depending on your origin:
-*Durge*: Spare Alfira by knocking her out for potent robe when your non-choice comes in the form of the little devilish goblin.
-*Universal*: Convince Ethel to give her hair and spare Mayrina for the bonus CHA, Necromancy of Thay is up to you, Spare Us, Swap your class to Wizard upon grabbing Shovel and have her by your side for good for the fistings, withstand the laughing monks checks for bonus Tasha laughings.
+  - *Durge*: Spare Alfira by knocking her out for potent robe when your non-choice comes in the form of the little devilish goblin.
+
+  -*Universal*: Convince Ethel to give her hair and spare Mayrina for the bonus CHA, Necromancy of Thay is up to you, Spare Us, Swap your class to Wizard upon grabbing Shovel and have her by your side for good for the fistings, withstand the laughing monks checks for bonus Tasha laughings.
 
 Additional information on this homebrew build:
 - You cannot be disarmed due to pact of the blade. Do remember to CAST it though, else you will drop your weapon!

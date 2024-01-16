@@ -85,7 +85,8 @@ Important note: Any tadpole you do take can count against your wisdom check in a
 - Concentrated Blast -> Cull the weak -> Psionic Backlash
 - (If Multiple tadpole players/companions) Psionic Overload -> Stage Fright -> Ability Drain
 
-*Partial Illithid zone*
+*Partial Illithid zone*:
+
 You will have to commune or eat Emperors Tadpole in act 3 for this. You will get 4 free tadpoles upon doing so.
 
   - Displace (Unlock automatically & Synergizes with repelling blast)
@@ -98,11 +99,13 @@ You will have to commune or eat Emperors Tadpole in act 3 for this. You will get
 
 Story decisions:
 Depending on your origin:
+
   - *Durge*: Spare Alfira by knocking her out for potent robe when your non-choice comes in the form of the little devilish goblin.
 
   - *Universal*: Convince Ethel to give her hair and spare Mayrina for the bonus CHA, Necromancy of Thay is up to you, Spare Us, Swap your class to Wizard upon grabbing Shovel and have her by your side for good for the fistings, withstand the laughing monks checks for bonus Tasha laughings.
 
 Additional information on this homebrew build:
+
 - You cannot be disarmed due to pact of the blade. Do remember to CAST it though, else you will drop your weapon!
 - You don't have to 100% follow the build to the key. You can change it up and run the weapon you want that synergizes for your fun. You can also swap the Warlock patron around too and everything else.
 - While I haven't tested it, you can do a 3/3/3 build. You will however lose out on some feats and spells because of it, but the 3rd subclass could be fighter or rogue for more actions/mobility.

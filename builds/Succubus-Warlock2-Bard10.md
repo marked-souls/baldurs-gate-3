@@ -114,13 +114,34 @@ Original Notes: Dominate and Hold are priority over Mass Cure Wounds if you have
 Here is some equipment to look out for: 
 
 * Chest
-  * Potent Robe
   * Blazor of Benevolence
 * Ammy: Misty Step
 * Weapon: Spellsparkler
-* Hat: Birthright (Act 3)
 * Feet
   * Disintegration Nightwalkers
   * Boots of Very Fast Blinking 
 
-Kousei's Notes: _Coming soon after first full playthru_
+Kousei's Notes: 
+
+Here is my favorites for late game: 
+
+* Head = Birthright
+* Cloak = Cloak of Displacement
+* Chest = Potent Robe
+* Hands =
+  * Gemini Gloves (sold by Helsik in act 3's Devil's Fee in Lower city)
+  * Quickspell Gloves
+* Boots = Disintegration Nightwalkers
+* Ammy =
+  * Spellcrux Amulet
+  * Tressym Collar (Rivington)
+  * Strange Tendril Amulet (House of Healing Morgue)
+  * Pearl of Power Amulet
+* Rings
+  * Callous Glow Ring
+  * Ring of Mental Inhibition
+* Weapon = Markoheshkir
+* Bow =
+  * Darkfire Shortbow
+  * Hellfire Hand Crossbow
+  * Ne'er Misser

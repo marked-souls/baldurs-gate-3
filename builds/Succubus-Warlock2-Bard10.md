@@ -129,6 +129,7 @@ Here is my favorites for late game:
 * Cloak = Cloak of Displacement
 * Chest = Potent Robe
 * Hands =
+  * Helldusk Gloves
   * Gemini Gloves (sold by Helsik in act 3's Devil's Fee in Lower city)
   * Quickspell Gloves
 * Boots = Disintegration Nightwalkers
